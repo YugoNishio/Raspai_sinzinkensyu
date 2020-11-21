@@ -1,0 +1,2 @@
+# Raspai_sinzinkensyu
+CITBrainsの新人研修用レポジトリ
